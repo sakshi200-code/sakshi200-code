@@ -37,7 +37,6 @@ I’m a data-focused professional building practical projects in **Data Analytic
 * Git & GitHub
 * Jupyter Notebook
 * Google Colab
-* 
 ---
 
 ##  Areas of Interest
@@ -54,7 +53,7 @@ I’m a data-focused professional building practical projects in **Data Analytic
 
 ##  Let's Connect
 
-I'm always interested in connecting with people working in **Data Analytics, Data Science, Risk, Finance, and Business Intelligence**.
+I'm always interested in connecting with people working in **Data Analytics, Data Science and Business Intelligence**.
 
 **LinkedIn:** [linkedin.com/in/sakshi-chore](https://www.linkedin.com/in/sakshi-chore/)
 
