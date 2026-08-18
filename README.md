@@ -12,7 +12,7 @@ I’m a data-focused professional building practical projects in **Data Analytic
 | Pandas                   | Matplotlib                  | Data Cleaning & Preprocessing | Google Colab     |
 | NumPy                    | Seaborn                     | Feature Engineering           |                  |
 |                          | Excel                       | Machine Learning              |                  |
-|                          |                             | Model Evaluation              |                  |
+|                          | Plotly                      | Model Evaluation              |                  |
 
 ---
 
