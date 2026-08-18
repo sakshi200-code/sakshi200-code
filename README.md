@@ -5,38 +5,15 @@
 I’m a data-focused professional building practical projects in **Data Analytics, Business Intelligence, Risk Analytics, and Machine Learning**.
 
 ---
+| **Languages & Analysis** | **Data Visualization & BI** | **Data Science**              | **Tools**        |
+| :----------------------- | :-------------------------- | :---------------------------- | :--------------- |
+| Python                   | Power BI                    | Exploratory Data Analysis     | Git & GitHub     |
+| SQL                      | DAX                         | Statistical Analysis          | Jupyter Notebook |
+| Pandas                   | Matplotlib                  | Data Cleaning & Preprocessing | Google Colab     |
+| NumPy                    | Seaborn                     | Feature Engineering           |                  |
+|                          | Excel                       | Machine Learning              |                  |
+|                          |                             | Model Evaluation              |                  |
 
-##  Technical Skills
-
-**Languages & Analysis**
-
-* Python
-* SQL
-* Pandas
-* NumPy
-
-**Data Visualization & BI**
-
-* Power BI
-* DAX
-* Matplotlib
-* Seaborn
-* Excel
-
-**Data Science**
-
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Cleaning & Preprocessing
-* Feature Engineering
-* Machine Learning
-* Model Evaluation
-
-**Tools**
-
-* Git & GitHub
-* Jupyter Notebook
-* Google Colab
 ---
 
 ##  Areas of Interest
